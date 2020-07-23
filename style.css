@@ -1,0 +1,82 @@
+#home-heading
+{
+	color:#f4f4f4;
+	font-size: 80px;
+	margin-left: 60%;
+	margin-top: 10%;
+	background-color: black;
+	letter-spacing: 20px;
+
+}
+.home-heading-hover{
+	background-color: green;
+}
+#sym-heading{
+	word-spacing: 90px;
+	font-size: 60px;
+	margin-left: 35%;
+
+}
+#stat-heading{
+	font-size: 40px;
+	word-spacing: 30px;
+	color: black;
+	letter-spacing: 5px;
+    margin-left: 5%;
+}
+.about-item{
+	background: #fff;
+	padding: 40px 8px;
+	box-shadow: 0 5px 5px  rgb(0,0,0);
+}
+.about-item i{
+	font-size: 42px;
+}
+.about-item h3{
+	font-size: 24px;
+	margin: 0;
+}
+.about-item hr{
+	width:45px;
+	height: 3px;
+	background-color: #f4f4f4;
+	margin: 0 auto;
+	border-color: grey;
+}
+.about-item p{
+	margin-top: 10px;
+}
+.about-item:hover{
+	background-color:red;
+	color: #f4f4f4;
+
+}
+.about-item{
+	transition: all 500ms ease-in-out;
+}
+.about-item1:hover{
+ background-color: lightgreen;
+ color: black;
+}
+.about-item1{
+	transition: all 1000ms ease-in-out;
+}
+.about-item1 hr{
+	width:45px;
+	height: 3px;
+	background-color: #f4f4f4;
+	margin: 0 auto;
+	border-color: grey;
+}
+.about-item1{
+	background: #fff;
+	padding: 40px 8px;
+	box-shadow: 0 10px 10px  rgb(0,0,0);
+}
+.about-item1 i{
+	font-size: 42px;
+}
+.about-item1 h3{
+	font-size: 24px;
+	margin: 0;
+}

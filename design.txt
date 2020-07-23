@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>covid19</title>
+<h1><stong> <center>COVID-19 POST LOCKDOWN</center></strong></h1>
+</head>
+
+
+<style>
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="https://indianexpress.com/article/india/coronavirus-india-news-live-updates-india-covid-19-cases-tracker-corona-virus-cases-in-india-state-wise-lockdown-today-latest-news-update-6451101/">News</a></li>
+  <li><a href="https://www.mohfw.gov.in/pdf/coronvavirushelplinenumber.pdf">Contact</a></li>
+  <li style="float:right"><a class="active" href="#about">About</a></li>
+</ul>
+<style>
+body{
+ background-image: url("https://previews.123rf.com/images/tigatelu/tigatelu1604/tigatelu160400036/55603146-vector-illustration-of-virus-or-bacteria-background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+<font size="6"
+          face="verdana"
+          color="blue"> 
+            go back corona!!  
+        </font> 
+    <br> 
+  
+    <font size="6"
+          face="Comic Sans MS"
+          color="red"> 
+                    strategies are taken by government! 
+        </font>
+ <h2>
+     
+ <div id="home-btns" class="text-centre">
+    <a href="https://en.wikipedia.org/wiki/Economic_impact_of_the_COVID-19_pandemic_in_India">economic impact</a><br><br>
+    <a href="https://thewire.in/government/a-universal-right-to-health-is-the-way-forward-in-post-lockdown-india">impact on health</a><br><br>
+    <a href="https://food.ndtv.com/food-drinks/coronavirus-5-food-trends-that-will-define-new-normal-post-covid-19-epidemic-2228621">food habit</a><br><br>
+    <a href="https://theprint.in/india/education/schools-could-resume-with-30-students-at-a-time-after-lockdown-hrd-minister-hints/421435/">education </a><br><br>
+    <a href="https://retail.economictimes.indiatimes.com/news/industry/covid-19-impact-social-media-activity-in-the-country-grew-50x-in-early-march-nielsen/74844172">social media</a>
+<br><br><br><br><br><br><br>
+</h2>
+
+</body>
+</html>
